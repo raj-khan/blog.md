@@ -1,0 +1,4 @@
+<template>
+  <Nuxt />
+  <Header />
+</template>
